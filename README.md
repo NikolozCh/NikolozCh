@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm NikolozCh 👋
 
-<!--
-**NikolozCh/NikolozCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=NikolozCh&show_icons=true&hide_border=true&theme=radical" />
 
-Here are some ideas to get you started:
+I have started programming since age of 16.\
+I love to contribute to Public Repos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🔭 I’m currently working on ... -->
+🌱 I’m currently learning Test Automation Specialist
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ... -->
+💬 Ask me about Anything\
+📫 How to reach me:
+- Discrod: Nikkoo#0001
+- Twitter: _NicolasGe
+<!-- - 😄 Pronouns: ... -->
+⚡ Fun fact: I love to Reverse almost anything =)\
+🧐 Don't hesitate to message me
