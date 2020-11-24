@@ -6,7 +6,7 @@ I have started programming since age of 16.\
 I love to contribute to Public Repos.
 
 <!-- - 🔭 I’m currently working on ... -->
-🌱 I’m currently learning Test Automation Specialist
+🌱 I’m currently learning Test Automation
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 💬 Ask me about Anything\
