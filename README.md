@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=NikolozCh&show_icons=true&hide_border=true&theme=radical" />
 
-I have started programming since age of 16.\
+I have started programming from age of 16.\
 I love to contribute to Public Repos.
 
 <!-- - 🔭 I’m currently working on ... -->
