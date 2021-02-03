@@ -12,7 +12,7 @@ I love to contribute to Public Repos.
 💬 Ask me about Anything\
 📫 How to reach me:
 - Discrod: Nikkoo#0001
-- Twitter: _NicolasGe
+- Twitter: NikoloziGE
 <!-- - 😄 Pronouns: ... -->
 ⚡ Fun fact: I love to Reverse almost anything =)\
 🧐 Don't hesitate to message me
