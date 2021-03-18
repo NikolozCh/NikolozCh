@@ -11,7 +11,7 @@ I love to contribute to Public Repos.
 - 🤔 I’m looking for help with ... -->
 💬 Ask me about Anything\
 📫 How to reach me:
-- Discrod: Nikkoo#0001
+- Discrod: Nikkoo#8959
 - Twitter: NikoloziGE
 <!-- - 😄 Pronouns: ... -->
 ⚡ Fun fact: I love to Reverse almost anything =)\
